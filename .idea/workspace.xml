@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aae8efc8-d808-4943-a999-ec4aa68001c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio1/Grupo.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="93" lean-forward="true" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ejercicio1/Grupo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="docComment;class#Grupo#0" />
+                <element signature="docComment;method#Grupo#1;class#Grupo#0" />
+                <element signature="method#Grupo#1;class#Grupo#0" />
+                <element signature="docComment;method#getCantidadIntegrantes#0;class#Grupo#0" />
+                <element signature="n#!!block;n#getCantidadIntegrantes#0;n#Grupo#0" />
+                <element signature="docComment;method#agregarIntegrante#0;class#Grupo#0" />
+                <element signature="method#agregarIntegrante#0;class#Grupo#0" />
+                <element signature="method#mensajeAgregarIntegranteExistoso#0;class#Grupo#0" />
+                <element signature="method#obtenerPosicionIntegrante#0;class#Grupo#0" />
+                <element signature="e#1235#1402#0" />
+                <element signature="e#1536#1691#1" />
+                <element signature="e#1598#1655#1" />
+                <element signature="e#1649#1685#1" />
+                <element signature="docComment;method#obtenerIntegrante#0;class#Grupo#0" />
+                <element signature="method#obtenerIntegrante#0;class#Grupo#0" />
+                <element signature="e#2186#2248#1" />
+                <element signature="e#2158#2203#1" />
+                <element signature="docComment;method#buscarIntegrante#0;class#Grupo#0" />
+                <element signature="method#buscarIntegrante#0;class#Grupo#0" />
+                <element signature="e#2828#2858#0" />
+                <element signature="e#2871#3182#1" />
+                <element signature="e#2976#3172#1" />
+                <element signature="e#2996#3042#1" />
+                <element signature="e#3117#3160#1" />
+                <element signature="docComment;method#removerIntegrante#0;class#Grupo#0" />
+                <element signature="method#removerIntegrante#0;class#Grupo#0" />
+                <element signature="e#4052#4470#1" />
+                <element signature="e#4251#4418#1" />
+                <element signature="e#4424#4460#1" />
+                <element signature="method#validarIntegrante#0;class#Grupo#0" />
+                <element signature="method#mostrarIntegrantes#0;class#Grupo#0" />
+                <element signature="e#4991#5100#0" />
+                <element signature="e#5239#5297#1" />
+                <element signature="docComment;method#mostrar#0;class#Grupo#0" />
+                <element signature="method#mostrar#0;class#Grupo#0" />
+                <element signature="docComment;method#vaciar#0;class#Grupo#0" />
+                <element signature="n#!!block;n#vaciar#0;n#Grupo#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ejercicio1/Grupo.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="83" />
+    <option name="y" value="-13" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TP1-TP1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP1-TP1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TP1-TP1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP1-TP1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TP1-TP1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TP1-TP1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ejercicio1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="12A-YA-TP1-12A-SalcedoGuido" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aae8efc8-d808-4943-a999-ec4aa68001c0" name="Default Changelist" comment="" />
+      <created>1566250776509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566250776509</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>intengrantes.get(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nombreIntegrante</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>integranteEncontrado</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nombreIntegrante.contains(&quot;nuevoIn&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nombreIntegrante.contains(&quot;nuevoIntegrante1&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nombreIntegrante.contains(&quot;nuevoIntegrante2&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nombreIntegrante.contains(&quot;nuevoIntegrante&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nombreIntegrante.contains(palabra)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>palabra</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ejercicio1/Grupo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="docComment;class#Grupo#0" />
+            <element signature="docComment;method#Grupo#1;class#Grupo#0" />
+            <element signature="method#Grupo#1;class#Grupo#0" />
+            <element signature="docComment;method#getCantidadIntegrantes#0;class#Grupo#0" />
+            <element signature="n#!!block;n#getCantidadIntegrantes#0;n#Grupo#0" />
+            <element signature="docComment;method#agregarIntegrante#0;class#Grupo#0" />
+            <element signature="method#agregarIntegrante#0;class#Grupo#0" />
+            <element signature="method#mensajeAgregarIntegranteExistoso#0;class#Grupo#0" />
+            <element signature="method#obtenerPosicionIntegrante#0;class#Grupo#0" />
+            <element signature="e#1235#1402#0" />
+            <element signature="e#1536#1691#1" />
+            <element signature="e#1598#1655#1" />
+            <element signature="e#1649#1685#1" />
+            <element signature="docComment;method#obtenerIntegrante#0;class#Grupo#0" />
+            <element signature="method#obtenerIntegrante#0;class#Grupo#0" />
+            <element signature="e#2186#2248#1" />
+            <element signature="e#2158#2203#1" />
+            <element signature="docComment;method#buscarIntegrante#0;class#Grupo#0" />
+            <element signature="method#buscarIntegrante#0;class#Grupo#0" />
+            <element signature="e#2828#2858#0" />
+            <element signature="e#2871#3182#1" />
+            <element signature="e#2976#3172#1" />
+            <element signature="e#2996#3042#1" />
+            <element signature="e#3117#3160#1" />
+            <element signature="docComment;method#removerIntegrante#0;class#Grupo#0" />
+            <element signature="method#removerIntegrante#0;class#Grupo#0" />
+            <element signature="e#4052#4470#1" />
+            <element signature="e#4251#4418#1" />
+            <element signature="e#4424#4460#1" />
+            <element signature="method#validarIntegrante#0;class#Grupo#0" />
+            <element signature="method#mostrarIntegrantes#0;class#Grupo#0" />
+            <element signature="e#4991#5100#0" />
+            <element signature="e#5239#5297#1" />
+            <element signature="docComment;method#mostrar#0;class#Grupo#0" />
+            <element signature="method#mostrar#0;class#Grupo#0" />
+            <element signature="docComment;method#vaciar#0;class#Grupo#0" />
+            <element signature="n#!!block;n#vaciar#0;n#Grupo#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="93" lean-forward="true" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
