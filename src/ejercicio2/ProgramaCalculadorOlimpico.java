@@ -39,11 +39,11 @@ public class ProgramaCalculadorOlimpico {
         String primerPuesto;
         int maxGanadores = 3;
         float tiempoMayor = 0;
-        //TODO:
+
         // validar quien gano
         // guardar solo los primeros tres ganadores solamente
         // Pueden empatar en cualquiera de las posicines dadas.
-
+        // plantearlo de una manera no ambigua
             for (int i = 0; i < this.atletas.size(); i++) {
 
 
@@ -55,7 +55,6 @@ public class ProgramaCalculadorOlimpico {
                 else {
                     if(this.atletas.get(i).getSegundosRecoridos() == tiempoMayor)
                     ganadores[1] = this.atletas.get(i).getNombre();
-
                 }
 
             }
