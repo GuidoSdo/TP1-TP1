@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae8efc8-d808-4943-a999-ec4aa68001c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejercicio2/Atleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio2/Carrera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio2/TipoEspecialidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12A-YA-TP1-12A-SalcedoGuido/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/12A-YA-TP1-12A-SalcedoGuido/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12A-YA-TP1-12A-SalcedoGuido/ejercicio1/Grupo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/12A-YA-TP1-12A-SalcedoGuido/ejercicio1/Grupo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio2/Atleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio2/Atleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio2/Carrera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio2/ProgramaCalculadorOlimpico.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -32,19 +33,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ejercicio2/Atleta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="238">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="e#433#434#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ejercicio2/Carrera.java">
+        <entry file="file://$PROJECT_DIR$/src/ejercicio2/ProgramaCalculadorOlimpico.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="153">
+              <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,46 +67,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ejercicio1/Grupo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="1054">
+              <caret line="168" column="11" selection-start-line="159" selection-start-column="3" selection-end-line="171" selection-end-column="5" />
               <folding>
                 <element signature="docComment;class#Grupo#0" />
-                <element signature="docComment;method#Grupo#1;class#Grupo#0" />
-                <element signature="method#Grupo#1;class#Grupo#0" />
                 <element signature="docComment;method#getCantidadIntegrantes#0;class#Grupo#0" />
-                <element signature="n#!!block;n#getCantidadIntegrantes#0;n#Grupo#0" />
                 <element signature="docComment;method#agregarIntegrante#0;class#Grupo#0" />
-                <element signature="method#agregarIntegrante#0;class#Grupo#0" />
                 <element signature="method#mensajeAgregarIntegranteExistoso#0;class#Grupo#0" />
                 <element signature="method#obtenerPosicionIntegrante#0;class#Grupo#0" />
-                <element signature="e#1235#1402#0" />
-                <element signature="e#1536#1691#1" />
-                <element signature="e#1598#1655#1" />
-                <element signature="e#1649#1685#1" />
                 <element signature="docComment;method#obtenerIntegrante#0;class#Grupo#0" />
                 <element signature="method#obtenerIntegrante#0;class#Grupo#0" />
-                <element signature="e#2186#2248#1" />
-                <element signature="e#2158#2203#1" />
                 <element signature="docComment;method#buscarIntegrante#0;class#Grupo#0" />
                 <element signature="method#buscarIntegrante#0;class#Grupo#0" />
-                <element signature="e#2828#2858#0" />
-                <element signature="e#2871#3182#1" />
-                <element signature="e#2976#3172#1" />
-                <element signature="e#2996#3042#1" />
-                <element signature="e#3117#3160#1" />
                 <element signature="docComment;method#removerIntegrante#0;class#Grupo#0" />
                 <element signature="method#removerIntegrante#0;class#Grupo#0" />
-                <element signature="e#4052#4470#1" />
-                <element signature="e#4251#4418#1" />
-                <element signature="e#4424#4460#1" />
-                <element signature="method#validarIntegrante#0;class#Grupo#0" />
                 <element signature="method#mostrarIntegrantes#0;class#Grupo#0" />
-                <element signature="e#4991#5100#0" />
-                <element signature="e#5239#5297#1" />
                 <element signature="docComment;method#mostrar#0;class#Grupo#0" />
                 <element signature="method#mostrar#0;class#Grupo#0" />
                 <element signature="docComment;method#vaciar#0;class#Grupo#0" />
-                <element signature="n#!!block;n#vaciar#0;n#Grupo#0" />
               </folding>
             </state>
           </provider>
@@ -126,14 +109,15 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ejercicio2/TipoEspecialidad.java" />
         <option value="$PROJECT_DIR$/src/ejercicio2/Carrera.java" />
+        <option value="$PROJECT_DIR$/src/ejercicio2/Atleta.java" />
+        <option value="$PROJECT_DIR$/src/ejercicio2/ProgramaCalculadorOlimpico.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="83" />
-    <option name="y" value="-13" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -141,8 +125,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,20 +214,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16490166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
@@ -251,14 +231,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.198036" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="debuggerHistoryManager">
@@ -311,52 +295,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ejercicio1/Grupo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="docComment;class#Grupo#0" />
-            <element signature="docComment;method#Grupo#1;class#Grupo#0" />
-            <element signature="method#Grupo#1;class#Grupo#0" />
-            <element signature="docComment;method#getCantidadIntegrantes#0;class#Grupo#0" />
-            <element signature="n#!!block;n#getCantidadIntegrantes#0;n#Grupo#0" />
-            <element signature="docComment;method#agregarIntegrante#0;class#Grupo#0" />
-            <element signature="method#agregarIntegrante#0;class#Grupo#0" />
-            <element signature="method#mensajeAgregarIntegranteExistoso#0;class#Grupo#0" />
-            <element signature="method#obtenerPosicionIntegrante#0;class#Grupo#0" />
-            <element signature="e#1235#1402#0" />
-            <element signature="e#1536#1691#1" />
-            <element signature="e#1598#1655#1" />
-            <element signature="e#1649#1685#1" />
-            <element signature="docComment;method#obtenerIntegrante#0;class#Grupo#0" />
-            <element signature="method#obtenerIntegrante#0;class#Grupo#0" />
-            <element signature="e#2186#2248#1" />
-            <element signature="e#2158#2203#1" />
-            <element signature="docComment;method#buscarIntegrante#0;class#Grupo#0" />
-            <element signature="method#buscarIntegrante#0;class#Grupo#0" />
-            <element signature="e#2828#2858#0" />
-            <element signature="e#2871#3182#1" />
-            <element signature="e#2976#3172#1" />
-            <element signature="e#2996#3042#1" />
-            <element signature="e#3117#3160#1" />
-            <element signature="docComment;method#removerIntegrante#0;class#Grupo#0" />
-            <element signature="method#removerIntegrante#0;class#Grupo#0" />
-            <element signature="e#4052#4470#1" />
-            <element signature="e#4251#4418#1" />
-            <element signature="e#4424#4460#1" />
-            <element signature="method#validarIntegrante#0;class#Grupo#0" />
-            <element signature="method#mostrarIntegrantes#0;class#Grupo#0" />
-            <element signature="e#4991#5100#0" />
-            <element signature="e#5239#5297#1" />
-            <element signature="docComment;method#mostrar#0;class#Grupo#0" />
-            <element signature="method#mostrar#0;class#Grupo#0" />
-            <element signature="docComment;method#vaciar#0;class#Grupo#0" />
-            <element signature="n#!!block;n#vaciar#0;n#Grupo#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -371,19 +309,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ejercicio2/Atleta.java">
+    <entry file="file://$PROJECT_DIR$/src/ejercicio1/Grupo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="1054">
+          <caret line="168" column="11" selection-start-line="159" selection-start-column="3" selection-end-line="171" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#Grupo#0" />
+            <element signature="docComment;method#getCantidadIntegrantes#0;class#Grupo#0" />
+            <element signature="docComment;method#agregarIntegrante#0;class#Grupo#0" />
+            <element signature="method#mensajeAgregarIntegranteExistoso#0;class#Grupo#0" />
+            <element signature="method#obtenerPosicionIntegrante#0;class#Grupo#0" />
+            <element signature="docComment;method#obtenerIntegrante#0;class#Grupo#0" />
+            <element signature="method#obtenerIntegrante#0;class#Grupo#0" />
+            <element signature="docComment;method#buscarIntegrante#0;class#Grupo#0" />
+            <element signature="method#buscarIntegrante#0;class#Grupo#0" />
+            <element signature="docComment;method#removerIntegrante#0;class#Grupo#0" />
+            <element signature="method#removerIntegrante#0;class#Grupo#0" />
+            <element signature="method#mostrarIntegrantes#0;class#Grupo#0" />
+            <element signature="docComment;method#mostrar#0;class#Grupo#0" />
+            <element signature="method#mostrar#0;class#Grupo#0" />
+            <element signature="docComment;method#vaciar#0;class#Grupo#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ejercicio2/Carrera.java">
+    <entry file="file://$PROJECT_DIR$/src/test.ucls">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ejercicio2/Atleta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="238">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ejercicio2/ProgramaCalculadorOlimpico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
           </folding>
         </state>
       </provider>
